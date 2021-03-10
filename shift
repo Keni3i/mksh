@@ -1,0 +1,2 @@
+#!/bin/bash
+xmodmap -e 'keysym 0xffe1 = Shift_L'
